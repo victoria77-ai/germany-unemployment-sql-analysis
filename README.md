@@ -4,7 +4,7 @@
 
 This project analyzes regional unemployment trends in Germany using SQL. The goal is to explore how unemployment rates changed across German regions between 2016 and 2025, identify regions with the highest and lowest unemployment rates, and compare regional labor market performance over time.
 
-The dataset is based on Eurostat unemployment-rate data. It includes annual unemployment rates for people aged 15 to 74, covering total sex, all ISCED 2011 education levels, and values measured as percentages [1].
+The dataset is based on Eurostat unemployment-rate data. It includes annual unemployment rates for people aged 15 to 74, covering total sex, all ISCED 2011 education levels, and values measured as percentages.
 
 ## Business Problem
 
@@ -23,7 +23,7 @@ Regional unemployment differences are important for policymakers, employers, rec
 - **SQL** - Data cleaning, validation, and analysis
 - **GitHub** - Portfolio hosting and documentation
 
-## Dataset Description
+ ## Dataset Description
 
 The original dataset contains annual unemployment-rate observations by country or region. The unemployment rate is measured as a percentage.
 
@@ -41,7 +41,7 @@ The raw dataset includes fields related to:
 - Observation value
 - Observation flag
 
-The dataset also includes observation flags such as `b: break in time series`, which are useful for reviewing data quality [1].
+The dataset also includes observation flags such as `b: break in time series`, which are useful for reviewing data quality.
 
 ## Data Preparation
 
@@ -259,4 +259,6 @@ Possible future improvements include:
 
 ## Data Source
 
-Eurostat unemployment-rate dataset: annual unemployment rates by region, age group 15-74, total sex, all ISCED 2011 education levels, measured as percentages [1].                      
+Eurostat unemployment-rate dataset: annual unemployment rates by region, age group 15-74, total sex, all ISCED 2011 education levels, measured as percentages.
+
+Source: https://ec.europa.eu/eurostat

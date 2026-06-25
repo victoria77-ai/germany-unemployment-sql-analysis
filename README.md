@@ -104,6 +104,10 @@ After cleaning the dataset, I validated the Germany-focused view to check the nu
 | Lowest Unemployment Rate | 1.8% |
 | Highest Unemployment Rate | 7.8% |
 
+## Project Screenshot
+
+![Data Validation Result](screenshots/03_raw_table_preview.PNG)
+
 ## Validation Query
 
 ```sql
@@ -230,6 +234,32 @@ This project demonstrates the following SQL and data-analysis skills:
 - Comparing values over time using self-joins
 - Performing data validation checks
 - Translating SQL results into business insights
+
+## Project Screenshots
+
+### Raw Table Preview
+
+![Raw Table Preview](screenshots/01_raw_table_preview.png)
+
+### Additional Raw Table Preview
+
+![Raw Table Preview 2](screenshots/02_raw_table_preview.PNG)
+
+### Data Validation Result
+
+![Data Validation Result](screenshots/03_raw_table_preview.PNG)
+
+### Analysis Query Result
+
+![Analysis Query Result](screenshots/04_raw_table_preview.PNG)
+
+### Additional Analysis Result
+
+![Additional Analysis Result](screenshots/04_1_raw_table_preview.PNG)
+
+### Final Query Result
+
+![Final Query Result](screenshots/05_raw_table_preview.PNG)
 
 ## Project Files
 
